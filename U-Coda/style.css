@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+span {
+    color: #45B871;
+    font-family: Open Sans;
+    font-size: 23.795px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14.872px;
+    /* 62.5% */
+    width: 84.275px;
+    height: 14.872px;
+    flex-shrink: 0;
+}
+.img{
+    width: 35rem;
+    margin-top: -2rem;
+}
+
+form button {
+    border-radius: 4.957px;
+    background: #45B871 !important;
+    box-shadow: 0px 7.93174px 79.31741px 0px rgba(9, 188, 77, 0.20);
+    cursor: pointer;
+}
+
+#container-fluid {
+    background-color: #E4F5EB;
+    width: 100%;
+    height: 456px;
+}
+.contain{
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.contain button {
+    width: 202.259px;
+    height: 72.377px;
+    flex-shrink: 0;
+    border-radius: 4.957px;
+    background: #45B871;
+    box-shadow: 0px 7.93174px 79.31741px 0px rgba(9, 188, 77, 0.20);
+    cursor: pointer;
+}
+
+.contain h2 {
+    width: 612.73px;
+    font-family: Open Sans;
+    font-size: 43px;
+    font-weight: 700;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.contain p {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6C6C6A;
+    width: 626.61px;
+    height: 93.2px;
+}
+
+/* End Of container -fluid */
+.content h4 {
+    width: 15rem;
+    height: 93.2px;
+    font-family: Open Sans;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #575859;
+    padding-top: 20px;
+
+}
+
+.udemy {
+    width: 188.02px;
+    height: 53.36px;
+}
+
+.fiver {
+    width: 258.77px;
+    height: 117.98px;
+}
+
+.bys {
+    width: 158.37px;
+    height: 87.87px;
+
+}
+
+.microsoft {
+    width: 225.63px;
+    height: 83.28px;
+
+}
+
+.steps {
+    margin-top: 5rem;
+
+}
+
+/* End */
+.steps img {
+    width: 492px;
+    height: 477px;
+    border-radius: 20px;
+}
+
+.steps h3 {
+    width: 416px;
+    height: 146px;
+    font-family: Open Sans;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 74px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.steps p {
+    width: 571px;
+    height: 222px;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8E90;
+}
+
+.video img {
+    width: 58px;
+    height: 58px;
+
+}
+/* end */
+.popular{
+    width: 100%;
+height: 100rem;
+background: #E4F5EB;
+
+
+}
+
+.popular h2 {
+    width: 699px;
+    height: 69px;
+    padding-bottom:8rem;
+    font-family: Open Sans;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 74px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #242323;
+    padding-left: 10rem;
+    padding-top: 1rem;
+}
+
+.popular img {
+    width: 346px;
+    height: 200px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+.popular h5{
+    width: 339px;
+    height: 72px;
+    font-family: Open Sans;
+font-size: 25px;
+font-weight: 600;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+padding-left: 20px
+
+}
+.man{
+    background-color: white;
+    width: 346px;
+    height: 30rem;
+    justify-content: center;
+    margin-left: 1rem;
+    margin-top: 5rem;
+}
+.tube img{
+    width: 26px;
+height: 26px;
+}
+.tube a{
+    color: #45B871;
+    padding-top:-100rem;
+}
+.male{
+    background-image: linear-gradient(#F19300,#FFA00A);
+}
+.mith strong{
+    width: 20rem;
+}
+.strong strong{
+font-family: Open Sans;
+font-size: 34px;
+font-weight: 700;
+
+letter-spacing: 0em;
+text-align: left;
+color: #4C68FF;
+}
+.buttons button{
+    width: 252px;
+height: 80px;
+border-radius: 5px;
+background-color: #45B871;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 14rem;
+    cursor: pointer;
+}
+/* End */
+.About h2{
+    color: #424232;
+font-family: Open Sans;
+font-size: 58px;
+font-style: normal;
+font-weight: 600;
+line-height: 74px; /* 127.586% */
+text-align: center;
+}
+.lorem h5{
+    color: #8C8E90;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px; /* 142.857% */
+width: 30rem;
+}
+.lorem img{
+    width: 5rem;
+height: 5rem;
+}
+.lorem{
+    width:556.362px;
+height: 22rem;
+flex-shrink: 0;
+border-radius: 15px;
+border: 1px solid rgba(231, 231, 231, 0.70);
+background: #FFF;
+box-shadow: 30px 30px 70px 0px rgba(99, 98, 98, 0.06);
+/* */
+padding: 20px;
+
+}
+.lorem h6{
+    width: 226.118px;
+height: 9.959px;
+flex-shrink: 0;
+color: #242323;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 10px; /* 33.333% */
+}
+.lorem p{
+color: #636262;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 1px; /* 5% */
+padding-top: 20px;
+}
+.soft img{
+    width: 4rem;
+    height:4rem;
+    flex-shrink: 0;
+}
+.testimony{
+    display: flex;
+    justify-content: space-around;
+}
+.soft{
+    width: 32rem;
+height: 18rem;
+flex-shrink: 0;border-radius: 15px;
+border: 1px solid rgba(231, 231, 231, 0.70);
+background: #FFF;
+padding: 20px;
+}
+.soft h5{
+    width: 30rem;
+height: 87px;
+flex-shrink: 0;
+color: #8C8E90;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.soft h6{
+    width: 133.116px;
+height: 6.401px;
+padding-top: 30px;
+padding-bottom: 20px;
+color: #242323;
+font-family: Poppins;
+font-size: 19.282px;
+font-style: normal;
+font-weight: 500;
+line-height: 6.427px; /* 33.333% */
+}
+.soft p{
+    color: #636262;
+font-family: Poppins;
+font-size: 12.855px;
+font-style: normal;
+font-weight: 400;
+line-height: 0.643px; /* 5% */
+width: 165.27px;
+height: 6.401px;
+flex-shrink: 0;
+}
+/* End */
+.green{
+    background-color: #45B871;
+    width: 60rem;
+height: 15rem;
+transform: translateX(10rem);
+margin-top: 20px;
+margin-bottom: 20px;
+text-align: center;
+}
+.green h1{
+    color: #FFF;
+text-align: center;
+font-family: Open Sans;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 68px; /* 136% */
+width: 725px;
+height: 133px;
+flex-shrink: 0;
+transform: translateX(10rem);
+padding-top: 20px;
+}
+.lome .btn{
+    border: 1px solid white;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+}
